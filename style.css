@@ -1,25 +1,7 @@
-body {
-    color: white;
-    font-family: monospace;
-    background-color: black;
-    background-image:
-
+html, body {
+  margin: 0;
+  padding: 0;
 }
-
-a {
-    color: lightgoldenrodyellow
-}
-
-a:hover {
-    color: mediumpurple;
-            background-image: url(09.jpg);
-
-}
-
-link:hover {
-    <style> body {
-        background-image: url(09.jpg);
-    }
-
-    </style>
+canvas {
+  display: block;
 }
