@@ -1,0 +1,16 @@
+{
+  "name": "nope",
+  "manifest_version": 2,
+  "version": "1.0",
+  "description": "says 'nope' so you don't have to",
+  "icons": {
+    "128": "icon/thumb.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["js/p5.min.js", "js/sketch.js"],
+      "css": ["css/style.css"]
+    }
+  ]
+}
