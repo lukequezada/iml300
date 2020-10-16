@@ -1,4 +1,4 @@
-# Breathing Visual Chrome Extension
+# Negative Chrome Extension
 ![breathing](https://github.com/lukequezada/iml300/blob/master/Project02/assets/sample01.png)
 
 A Google Chrome extension that allows you to just say "no". Made with p5.js
