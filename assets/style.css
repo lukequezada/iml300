@@ -1,0 +1,25 @@
+body {
+    color: white;
+    font-family: monospace;
+    background-color: black;
+    background-image:
+
+}
+
+a {
+    color: lightgoldenrodyellow
+}
+
+a:hover {
+    color: mediumpurple;
+            background-image: url(09.jpg);
+
+}
+
+link:hover {
+    <style> body {
+        background-image: url(09.jpg);
+    }
+
+    </style>
+}
